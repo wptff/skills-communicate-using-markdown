@@ -20,4 +20,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+### Example 3 My example:
+
+``` javascript
+
+var aVar = "Hello, this is some other text";
+
+```
 

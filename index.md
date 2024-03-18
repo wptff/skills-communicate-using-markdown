@@ -28,3 +28,14 @@ var aVar = "Hello, this is some other text";
 
 ```
 
+### Example 
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Enjoy some understanding of Markdown
+- [ ] Eat some fish 
